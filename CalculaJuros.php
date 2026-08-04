@@ -5,5 +5,5 @@
     $t = intval($_GET["tempo"]);
     $J = $C * $i * $t;
     
-    echo "O juros sera de: ". $J . "%";
+    echo "O juros sera de: R$". $J;
 ?>
