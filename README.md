@@ -10,7 +10,7 @@
 
 ## Exercício 3
 
-- Link:
+- Link: https://github.com/anna-dev3148/webII-aula2-php/blob/main/CalculaJuros.php
 
 ## Exercício 4
 
