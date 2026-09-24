@@ -6,20 +6,21 @@
 
 ## Exercício 2
 
-- Link: https://github.com/anna-dev3148/webII-aula2-php/blob/main/Investimento.html
+- Link: [investimento.html](https://github.com/anna-dev3148/webII-aula2-php/blob/main/Investimento.html)
 
 ## Exercício 3
 
-- Link: https://github.com/anna-dev3148/webII-aula2-php/blob/main/CalculaJuros.php
+- Link: [calculaJuros.php](https://github.com/anna-dev3148/webII-aula2-php/blob/main/CalculaJuros.php)
 
 ## Exercício 4
 
-- Link: https://github.com/anna-dev3148/webII-aula2-php/blob/main/clube.html
+- Link: [clube.html]https://github.com/anna-dev3148/webII-aula2-php/blob/main/clube.html
 
 ## Exercício 5 
 
-- Link: https://github.com/anna-dev3148/webII-aula2-php/blob/main/clube.html
+- Link: [verificaIdade.php](https://github.com/anna-dev3148/webII-aula2-php/blob/main/verificaIdade.php)
 
-## Exercício 6 
+## Exercício 6
 
-- Link: 
+- Link: [exer6.php](https://github.com/anna-dev3148/webII-aula2-php/blob/main/exer6.html)
+- Link: [exer6.html](https://github.com/anna-dev3148/webII-aula2-php/blob/main/exer6.html)
