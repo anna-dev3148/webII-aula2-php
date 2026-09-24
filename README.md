@@ -14,7 +14,7 @@
 
 ## Exercício 4
 
-- Link:
+- Link: https://github.com/anna-dev3148/webII-aula2-php/blob/main/clube.html
 
 ## Exercício 5 
 
